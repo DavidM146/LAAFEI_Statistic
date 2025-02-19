@@ -1,1 +1,3 @@
 # LAAFEI_Statistic
+
+LAAFEI attempts to quantify and standardize the effectiveness of four seam fastballs in the uppermost three quadrants of the strike zone along with above the strike zone thrown by pitchers based on characteristics of their fastball [VAA (vertical approach angle), iVB (induced vertical break), and velocity]. This stat is adjusted so that a score of 100 is league average and 115 is 1 standard deviation above league average. Our goal in creating this stat was to measure how effective some pitchers can be with this collection of four seam fastball characteristics up in the zone.
