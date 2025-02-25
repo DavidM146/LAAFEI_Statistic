@@ -9,3 +9,7 @@ This file contains the code that was used to calculate LAAFEI for each pitcher, 
 ## LAAFEI_calc.py
 
 This file contains the code that functions as a calculator to determine any one pitcher's LAAFEI when provided their name, average velocity, average VAA, and average iVB. The same "new_stat_11_6_24.csv" file was used as previously mentioned.
+
+## LAAFEI_leaderboard.py
+
+This file contains the code that was used to create the table that displays the leaderboard for the top 10 pitchers in the 2024 season according to their LAAFEI. The values used for each pitcher were pulled from the LAAFEI_stat.py file.
